@@ -9,6 +9,7 @@
 1.2.2 [Возможности бизнеса](#business_opportunities)  
 1.3 [Аналоги](#analogues)  
 1.3.1 [Project Pongs](#pr_pong)
+1.3.2 [Laser Paddles](#Laser_Pong)
 2. [Требования пользователя](#user_requirements)  
 2.1 [Программные интерфейсы](#software_interfaces)  
 2.2 [Интерфейс пользователя](#user_interface)  
@@ -58,6 +59,15 @@
 **Ссылка на страницу магазина:** https://store.steampowered.com/app/1377930/ProjectPong/
 
 ProjectPong - неклассический представитель данного жанра, является более усложненной версией классического Pong'a.
+
+<a name = "Laser_Pong"/>
+### 1.3.2 Laser Paddles
+
+**Русский интерфейс:** нет  
+**Цена:** ~2$  
+**Ссылка на страницу магазина:** https://store.steampowered.com/app/1079050/Laser_Paddles/
+
+Laser Paddles - еще один неклассический представитель данного жанра, является более усложненной версией классического Pong'a с элементами разрушения.
 
 # 2 Требования пользователя
 
